@@ -7,3 +7,6 @@
 /.quarto/
 **/*.quarto_ipynb
 _site/
+*.html
+search.json
+site_libs/
