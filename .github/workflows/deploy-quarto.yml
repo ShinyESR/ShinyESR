@@ -3,7 +3,6 @@ name: Deploy Quarto Website
 on:
   push:
     branches: [main]
-  workflow_dispatch:
 
 permissions:
   contents: read
@@ -14,10 +13,6 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
