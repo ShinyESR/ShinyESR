@@ -16,6 +16,12 @@ Pour rejoindre la communauté et recevoir les informations, enregistrez-vous à 
 **[https://groupes.renater.fr/sympa/subscribe/shiny-esr](https://groupes.renater.fr/sympa/subscribe/shiny-esr)**
 :::
 
+::: {.callout-note}
+## Rejoindre le salon de discussion 
+Pour des échanges plus instantanés, vous pouvez rejoindre notre salon de discussion : <br>
+**[Lien vers le salon Tchap](https://tchap.gouv.fr/#/room/!CcKwxNRSFnXXCiQtPj:agent.agriculture.tchap.gouv.fr?via=agent.agriculture.tchap.gouv.fr&via=agent.education.tchap.gouv.fr)**
+:::
+
 ---
 
 ## Envie de vous impliquer davantage ?
