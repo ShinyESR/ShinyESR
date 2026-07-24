@@ -1,0 +1,21 @@
+---
+title: "Missions et Fonctionnement"
+---
+
+### Nos missions
+
+Basé sur une dynamique collective, notre réseau s'articule autour de quatre axes :
+
+1. **Fédérer** : Créer un lieu d'échange entre développeurs Shiny, DevOps et administrateurs système
+2. **Animer** : Organiser des échanges, des retours d'expérience et des journées thématiques
+3. **Capitaliser** : Partager des modules réutilisables, des tutoriels et des guides techniques
+4. **Valoriser** : Faire reconnaître l'ingénierie logicielle comme une véritable production scientifique
+
+
+### Fonctionnement du réseau
+
+Le réseau vit à travers :
+
+- **Évènements** : Présentations techniques, ateliers pratiques et sessions de codage collaboratif
+- **Site web** : Centralisation des ressources et de la documentation
+- **Échanges** : Relayer les ressources et les actualités via une mailing-list et des salons de discussion ouverts à tous et toutes

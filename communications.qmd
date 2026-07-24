@@ -1,0 +1,18 @@
+---
+title: "Communications"
+---
+
+La dynamique du réseau a été officiellement lancée en 2026 à travers des premières présentations au sein de la communauté scientifique et technique.
+
+### Événements de lancement
+
+Le projet de réseau a fait l'objet d'un poster de présentation lors de deux manifestations majeures :
+
+*   [Rencontres R 2026](https://rr2026.sciencesconf.org/) (Nantes)
+*   [JDEV 2026](https://jdev26.sciencesconf.org/) (Montpellier) 
+
+### Poster de présentation
+
+Le poster présenté lors de ces conférences détaille les ambitions du réseau : fédérer, animer, capitaliser et valoriser l'ingénierie Shiny au sein des établissements d'enseignements supérieurs et de recherche.
+
+> Élise Maigné, Jean-François Rey, Olivier Delaigue, Jean-Christophe Helbling, François Tilmant, et al.. Création d'un réseau SHINY::ESR. Rencontres R 2026, Jun 2026, Nantes, France. [⟨hal-05698089⟩](https://hal.science/hal-05698089)

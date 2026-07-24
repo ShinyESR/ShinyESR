@@ -1,44 +1,30 @@
 ---
-title: "Réseau Shiny::ESR"
+title: "Fédérer les pratiques et valoriser l'ingénierie Shiny dans l'enseignement supérieur et la recherche"
 ---
-
-Fédérer les pratiques et valoriser l’ingénierie Shiny 
-dans l’enseignement supérieur et la recherche
-
-[Site en construction...]
 
 ## Shiny, moteur de la science ouverte
 
+La technologie **Shiny** permet de transformer la recherche :
+
 - **Valoriser** : Passer du script d'analyse à l'outil web interactif
-- **Partager** : Diffuser les résultats de recherche auprès des décideurs et du public
+- **Partager** : Diffuser les résultats auprès des décideurs et du public
+
+#### **Vous ne connaissez pas Shiny ?**
+
+Shiny permet de créer des **applications web dynamiques** directement depuis **R** ou **Python** :
+
+- **Simplicité** : Inutile de maîtriser HTML, CSS ou JavaScript
+- **Maturité** : Standard dans la recherche depuis plus de 10 ans
+- **Flexibilité** : Entièrement personnalisable (extensions, CSS, HTML)
 
 
-## Vous ne connaissez pas Shiny ?
+## Le réseau SHINY::ESR
 
-Créer des applications web dynamiques directement depuis R ou Python
-
-- **Simplicité** : Pas besoin de maîtriser HTML, CSS, JavaScript
-- **Maturité ** : Standard dans la recherche depuis plus de 10 ans
-- **Flexibilité  ** : Personnalisable (extensions, CSS, JavaScript, HTML)
-
-## Mutualiser l’expertise technique
-
-- **Sécurité** : Gestion des accès et des données sensibles
-- **Déploiement ** : Complexité de mise en production (Docker, serveurs...)
-- **Pérennité  ** : Maintenance à long terme des applications
+Le réseau **SHINY::ESR** a pour but de fédérer les utilisateurs de **Shiny** au sein des établissements de l'enseignement supérieur et de la recherche. Que ceux-ci soient développeurs d'interface, DevOps, ou administrateurs système. 
 
 
-## Développer un réseau SHINY::ESR
-
-- **Fédérer** : Créer un point de contact (DevOps, chercheurs, DSI)
-- **Animer** : Organiser des échanges et des retours
-- **Capitaliser** : Partager des modules réutilisables, des tutoriels et des guides techniques
-- **Valoriser** : Reconnaître l’ingénierie logicielle comme une production scientifique
-
-## Fonctionnement du réseau
-
-- **Évènements** : Présentations techniques et ateliers pratiques    Sessions de codage collaboratif
-- **Site web** : Centralisation de tutoriels et supports
-- **Échanges** : Mailing-list et salons de discussion ouverts à tous   Relais de ressources et d'actualités
-
-
+::: {.callout-tip}
+## Rejoignez-nous !
+Que vous soyez débutant ou confirmé, le réseau est fait pour vous.  
+[Inscrivez-vous à la liste de diffusion](rejoindre.qmd)
+:::

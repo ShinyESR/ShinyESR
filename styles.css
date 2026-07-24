@@ -1,1 +1,118 @@
-/* css styles */
+/* apply grayscale and transition to footer images */
+.footer-container img {
+  filter: grayscale(20%);
+  transition: filter 0.3s ease;
+}
+
+/* remove grayscale filter on hover */
+.footer-container img:hover {
+  filter: grayscale(0%);
+}
+
+/* fix navbar logo dimensions and alignment */
+.navbar-brand img {
+  max-height: 50px !important;
+  width: auto;
+  margin-top: -5px; 
+  margin-bottom: -5px;
+}
+
+/* set minimum height for the navigation bar */
+.navbar {
+  min-height: 60px;
+}
+
+/* style figure containers with borders and shadows */
+.quarto-figure {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border: 1px solid #eee;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+/* add drop shadow and transition to side-header images */
+.margin-header img {
+  filter: drop-shadow(0px 2px 4px rgba(0,0,0,0.1)); 
+  transition: transform 0.3s ease;
+}
+
+/* scale side-header image on hover */
+.margin-header img:hover {
+  transform: scale(1.05); 
+}
+
+/* highlight active menu links with coral color */
+.navbar-nav .nav-link.active {
+  color: #EE6055 !important;
+  font-weight: bold;
+}
+
+/* change menu link color on hover */
+.navbar-nav .nav-link:hover {
+  color: #EE6055 !important;
+}
+
+/* maintain parent menu color when dropdown is open */
+.navbar-nav .nav-link.show {
+  color: #EE6055 !important;
+}
+
+/* style active dropdown items with background color */
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #EE6055 !important;
+  color: white !important;
+}
+
+/* style dropdown items with dark background and white text on hover */
+.dropdown-item:hover {
+  background-color: #292F36 !important;
+  color: #EE6055 !important;
+}
+
+/* change color of table of contents links on hover */
+#TOC .nav-link:hover {
+  color: #EE6055 !important;
+}
+
+/* set color and left border for the active table of contents link */
+#TOC .nav-link.active {
+  color: #EE6055 !important;
+  border-left-color: #EE6055 !important;
+}
+
+/* set hyperlink color in page content */
+a {
+  color: #EE6055;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+/* change hyperlink appearance on hover */
+a:hover {
+  color: #d14d44;
+  text-decoration: underline;
+}
+
+/* set left border color for tip callouts */
+.callout-tip.callout-style-default {
+  border-left-color: #EE6055 !important;
+}
+
+/* set header background color for tip callouts */
+.callout-tip .callout-header {
+  background-color: rgba(238, 96, 85, 0.1) !important;
+}
+
+/* set icon and title color for tip callouts */
+.callout-tip .callout-icon::before, 
+.callout-tip .callout-title {
+  color: #EE6055 !important;
+}
+
+/* recolor the tip icon lines using a filter */
+.callout-tip .callout-icon {
+  filter: invert(53%) sepia(76%) saturate(2338%) hue-rotate(319deg) brightness(97%) contrast(95%) !important;
+  background-color: transparent !important;
+}

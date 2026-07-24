@@ -1,0 +1,30 @@
+---
+title: "Mutualiser l'expertise technique"
+---
+
+Le réseau a pour objectif de de répondre collectivement aux problématiques des outils développés par les établissements de l'ESR :
+
+#### **Sécurité**
+
+- Gestion des accès et authentification (SSO, LDAP, [Fédération d'identité](https://services.renater.fr/federation/introduction/index), etc.)
+- Protection des données sensibles
+
+#### **Déploiement**
+
+- Utilisation de [Docker](https://www.docker.com/)
+- Gestion des serveurs et des dépendances
+- Intégration avec des services comme [SK8](https://sk8.inrae.fr/)
+
+#### **Pérennité**
+
+- Maintenance à long terme
+- Maintien en conditions opérationnelles des applications scientifiques
+
+#### **Veille technologique et perspectives**
+
+Le réseau a pour but de constituer un espace de veille sur les évolutions de l'écosystème.   
+Par exemple autour de :
+
+- [WebR](https://docs.r-wasm.org/webr/latest/) et [ShinyLive](https://shiny.posit.co/py/docs/shinylive.html) (exécution sans serveur)
+- L'usage de Shiny avec [Python](https://shiny.posit.co/py/)
+- L'interaction avec de nouvelles architectures de stockage ([S3](https://fr.wikipedia.org/wiki/Amazon_S3), etc.)

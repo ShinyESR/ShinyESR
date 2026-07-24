@@ -1,0 +1,19 @@
+---
+title: "Partenaires institutionnels"
+---
+
+Le réseau est soutenu par les principaux organismes de recherche et d'enseignement supérieur. 
+
+
+## Organismes fondateurs
+
+::: {layout-ncol=2}
+[![Centre national de la recherche scientifique<br><br>](images/logo_cnrs.png){height=70px}](https://www.cnrs.fr/)
+
+[![Centre de coopération internationale en recherche agronomique pour le développement](images/logo_cirad.png){height=70px}](https://www.cirad.fr/)
+
+[![Institut national de recherche pour l'agriculture, l'alimentation et l'environnement](images/logo_inrae.png){height=70px}](https://www.inrae.fr/)
+
+[![Institut de recherche pour le développement<br><br>](images/logo_ird.png){height=70px}](https://www.ird.fr/)
+:::
+

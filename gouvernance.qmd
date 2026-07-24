@@ -1,0 +1,28 @@
+---
+title: "Comité d'animation & Gouvernance"
+---
+
+### Comité d'animation
+
+Le réseau est animé par une équipe inter-établissements :
+
+- **Alice Boizet** (CIRAD, UMR Agap)
+- **Olivier Delaigue** (INRAE, UR HYCAR)
+- **Jean-Christophe Helbling** (INRAE, UMR NutriNeuro)
+- **Marie Joigneau** (INRAE, US PEPR)
+- **Élise Maigné** (INRAE, UR MIAT)
+- **Vincent Manzanilla** (IRD, UMR Intertryp)
+- **Cédric Midoux** (INRAE, UR PROSE & UR MaIAGE)
+- **Jean-François Rey** (INRAE, UR BioSP)
+- **Virginie Rossard** (INRAE, UR LBE)
+- **François Tilmant** (INRAE, UR HYCAR)
+- **Lise Vaudor** (CNRS, UMR Environnement Ville Société)
+- **Olivier Vu Thanh** (BRGM, éq. Hydrogéologie)
+
+
+### Référence scientifique
+
+Pour citer la création du réseau :
+
+> Élise Maigné, Jean-François Rey, Olivier Delaigue, Jean-Christophe Helbling, François Tilmant, et al. Création d'un réseau SHINY::ESR. Rencontres R 2026, Jun 2026, Nantes, France. [⟨hal-05698089⟩](https://hal.science/hal-05698089)
+

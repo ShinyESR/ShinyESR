@@ -1,0 +1,32 @@
+---
+title: "Nous rejoindre"
+---
+
+## Vous développez en Shiny ? 
+
+Que vous soyez débutant ou expert, le réseau **SHINY::ESR** vous permet de partager vos besoins, trouver de l'aide et rester informé.
+
+*   **Partager** vos besoins et vos interrogations
+*   **Trouver** ou apporter de l'aide à vos pairs
+*   **Rester informé** des actualités et évolutions de l'écosystème Shiny dans l'ESR
+
+::: {.callout-note}
+## S'inscrire à la liste de diffusion
+Pour rejoindre la communauté et recevoir les informations, enregistrez-vous à l'adresse suivante : <br>
+**[https://groupes.renater.fr/sympa/subscribe/shiny-esr](https://groupes.renater.fr/sympa/subscribe/shiny-esr)**
+:::
+
+---
+
+## Envie de vous impliquer davantage ?
+
+Le réseau est une initiative collaborative qui grandit grâce à l'implication de ses membres. Vous pouvez :
+
+*   **Devenir personne-ressource** sur une thématique spécifique
+*   **Contribuer à l'animation** du réseau (organisation d'événements, gestion des outils)
+
+::: {.callout-tip}
+## Contacter le comité d'animation
+Pour proposer votre aide ou échanger sur l'organisation du réseau, contactez : <br>
+**[shiny-esr-animation@groupes.renater.fr](mailto:shiny-esr-animation@groupes.renater.fr)**
+:::

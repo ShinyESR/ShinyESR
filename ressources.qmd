@@ -1,0 +1,45 @@
+---
+title: "Ressources"
+---
+
+Le réseau a pour vocation de centraliser les ressources utiles pour le développement d'applications Shiny au sein de la recherche publique.
+
+::: {.callout-tip}
+## Contribuer aux ressources
+Vous avez développé un tutoriel, un module réutilisable ou un template spécifique à l'ESR ?   
+Contactez le comité d'animation pour le faire figurer ici !
+:::
+
+## Documentation de référence
+
+### Pour débuter
+
+- **[Shiny for R](https://shiny.posit.co/r/getstarted/shiny-basics/lesson1/)** : tutoriel officiel pour apprendre les bases de Shiny sous R
+- **[Shiny for Python](https://shiny.posit.co/py/)** : tutoriel officiel pour apprendre les bases de Shiny sous Python
+- **[Mastering Shiny](https://mastering-shiny.org/)** : livre de référence de Shiny sous R (accessible gratuitement en ligne)
+
+### Développement professionnel (industrialisation)
+
+- **[{golem}](https://thinkr-open.github.io/golem/)** : framework pour construire des applications Shiny prêtes pour la production
+- **[{rhino}](https://appsilon.github.io/rhino/)** : framework alternatif 
+
+
+## Infrastructure & Déploiement
+
+### Hébergement dans l'ESR
+
+- **[Service SK8](https://sk8.inrae.fr/)** : plateforme d'hébergement d'applications Shiny d'INRAE (documentation et guides de déploiement)
+- **[ShinyLive](https://opensource.posit.co/blog/2024-05-22_shiny-vscode-1.0.0/?q=shinylive#shinylive)** : déployer des applications sans serveur (pour [R](https://opensource.posit.co/software/r-shinylive/) et [Python](https://shiny.posit.co/py/get-started/shinylive.html))
+
+### Conteneurisation
+
+- **[Docker et Shiny](https://cont-ug.github.io/docker-shiny-handbook/)** : guide sur l'utilisation de Docker pour isoler et pérenniser vos applications
+
+
+## Communautés et Veille
+
+- **[R-Weekly](https://rweekly.org/)** : newsletter communautaire ( contient chaque semaine une section dédiée à Shiny)
+- **[Appsilon Blog](https://appsilon.com/blog/shiny/)** : articles sur l'interface utilisateur et les performances de Shiny
+- **[R-bloggers (Shiny)](https://www.r-bloggers.com/lang/english/pkg/shiny/)** : agrégateur de blogs
+- **[Posit Blog](https://posit.co/blog/)** :  annonces officielles concernant les évolutions de Shiny (R et Python)
+

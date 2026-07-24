@@ -1,0 +1,21 @@
+---
+title: "Journées nationales"
+---
+
+## Prochaine journée SHINY::ESR (2027)
+
+::: {.callout-important}
+### Événement à venir
+Faisant suite au succès des journées **Shiny::INRAE** de 2025 et 2026, une nouvelle journée nationale est en préparation. Elle ne sera plus uniquement réservée aux agents INRAE, mais s'ouvrira à l'ensemble des établissements de l'ESR.
+:::
+
+*Les informations pratiques (lieu, date, inscriptions) seront diffusées prochainement sur ce site et via la liste de diffusion.*
+
+---
+
+## Archives des journées Shiny::INRAE
+
+Le réseau capitalise sur l'expérience acquise lors des éditions précédentes :
+
+- [Journée Shiny::INRAE 2026](https://sk8.pages-forge.inrae.fr/journee_shiny_inrae/edition_2026/)
+- [Journée Shiny::INRAE 2025](https://sk8.pages-forge.inrae.fr/journee_shiny_inrae/edition_2025/)

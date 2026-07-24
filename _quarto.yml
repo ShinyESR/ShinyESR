@@ -1,23 +1,60 @@
 project:
   type: website
   output-dir: _site
+  
+lang: fr
 
 website:
-  title: "Réseau SHINY::ESR"
+  title: "SHINY::ESR"
+  favicon: images/logo_shiny-esr.png
+  description: "Réseau des utilisateurs de Shiny dans l'Enseignement Supérieur et la Recherche"
+
+  page-footer:
+    center: "Partenaires : [CIRAD](https://www.cirad.fr/) | [CNRS](https://www.cnrs.fr/) | [INRAE](https://www.inrae.fr/) | [IRD](https://www.ird.fr/)"
+    
   navbar:
+    logo: images/logo_shiny-esr.png
+    background: "#292F36"
+    type: dark
+    search: true
     left:
       - href: index.qmd
         text: Accueil
-      - href: join.qmd
-        text: Nous rejoindre
+      - text: "Le Réseau"
+        menu:
+          - href: missions.qmd
+            text: "Missions & Fonctionnement"
+          - href: gouvernance.qmd
+            text: "Comité d'animation"
+          - href: partenaires.qmd
+            text: "Partenaires"
+      - text: "Actions"
+        menu:
+          - href: journees-nationales.qmd
+            text: "Journées nationales"
+          - href: communications.qmd
+            text: "Communications"
+      - href: expertise.qmd
+        text: "Expertise"
+      - href: ressources.qmd
+        text: "Ressources"
+      - href: rejoindre.qmd
+        text: "Nous rejoindre"
+    right:
+      - icon: github
+        href: https://github.com/ShinyESR/ShinyESR
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: 
+      light: flatly
+      dark: darkly
     toc: true
-
-
-
+    margin-header: |
+      <div style="text-align: center; padding-bottom: 10px;">
+        <img src="images/logo_shiny-esr.png" width="150px">
+      </div>
+    language:
+      fr:
+        toc-title-document: "Sommaire"
+    css: styles.css
