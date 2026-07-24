@@ -29,5 +29,6 @@ Celui-ci utilise le package `{hexSticker}` et met à jour automatiquement le fic
 
 Le réseau est animé par une équipe inter-établissements.
 
+- **[Salon Tchap](https://tchap.gouv.fr/#/room/!CcKwxNRSFnXXCiQtPj:agent.agriculture.tchap.gouv.fr?via=agent.agriculture.tchap.gouv.fr&via=agent.education.tchap.gouv.fr)**
 - **Liste de diffusion** : [https://groupes.renater.fr/sympa/subscribe/shiny-esr](https://groupes.renater.fr/sympa/subscribe/shiny-esr)
 - **Contact animation** : [shiny-esr-animation@groupes.renater.fr](mailto:shiny-esr-animation@groupes.renater.fr)
