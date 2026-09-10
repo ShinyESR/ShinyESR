@@ -1,5 +1,6 @@
 ---
 title: "Journées nationales"
+description: "Journées nationales du réseau SHINY::ESR : rencontres, ateliers et présentations dédiés aux utilisateurs de Shiny dans l’ensemble des établissements de l'enseignement supérieur et de la recherche"
 ---
 
 ## Prochaine journée SHINY::ESR (2027)

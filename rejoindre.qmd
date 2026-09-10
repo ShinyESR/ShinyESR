@@ -1,5 +1,7 @@
 ---
 title: "Nous rejoindre"
+description: "Rejoignez le réseau SHINY::ESR: inscrivez‑vous à la liste de diffusion, accédez au salon Tchap et participez aux échanges entre développeurs, DevOps et chercheurs d’applications Shiny"
+
 ---
 
 ## Vous développez en Shiny ? 

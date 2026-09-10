@@ -8,6 +8,8 @@ website:
   title: "SHINY::ESR"
   favicon: images/logo_shiny-esr.png
   description: "Réseau des utilisateurs de Shiny dans l'Enseignement Supérieur et la Recherche"
+  site-url: 'https://reseau-shiny-esr.fr'
+  site-path: '/'
 
   page-footer:
     center: "Partenaires : [CIRAD](https://www.cirad.fr/) | [CNRS](https://www.cnrs.fr/) | [INRAE](https://www.inrae.fr/) | [IRD](https://www.ird.fr/)"

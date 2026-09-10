@@ -1,5 +1,6 @@
 ---
 title: "Ressources"
+description: "Ressources pratiques (tutoriels, frameworks, déploiement) pour développer des applications Shiny au sein de la recherche publique"
 ---
 
 Le réseau a pour vocation de centraliser les ressources utiles pour le développement d'applications Shiny au sein de la recherche publique.

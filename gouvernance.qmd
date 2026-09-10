@@ -1,5 +1,6 @@
 ---
 title: "Comité d'animation & Gouvernance"
+description: "Composition et missions du comité d'animation du réseau SHINY::ESR (CIRAD, INRAE, CNRS, IRD, BRGM): gouvernance, coordination et animation de la communauté Shiny dans l'enseignement supérieur et la recherche"
 ---
 
 ### Comité d'animation

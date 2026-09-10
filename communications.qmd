@@ -1,5 +1,6 @@
 ---
 title: "Communications"
+description: "Événements de lancement du réseau SHINY::ESR (Rencontres R 2026, JDEV 2026) : posters, présentations et actualités autour de l’ingénierie Shiny dans l’enseignement supérieur et la recherche "
 ---
 
 La dynamique du réseau a été officiellement lancée en 2026 à travers des premières présentations au sein de la communauté scientifique et technique.

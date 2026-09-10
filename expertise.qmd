@@ -1,5 +1,7 @@
 ---
 title: "Mutualiser l'expertise technique"
+description: "Mutualiser l’expertise technique du réseau SHINY::ESR : sécurité (SSO, LDAP), déploiement (Docker, SK8), pérennité et veille technologique autour de WebR, ShinyLive et l’intégration Python"
+
 ---
 
 Le réseau a pour objectif de de répondre collectivement aux problématiques des outils développés par les établissements de l'ESR :
