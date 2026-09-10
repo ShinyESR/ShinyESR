@@ -1,5 +1,7 @@
 ---
 title: "Missions et Fonctionnement"
+description: "Découvrez les missions du réseau SHINY::ESR : fédérer, animer, capitaliser et valoriser l’ingénierie Shiny dans l'enseignement supérieur et la recherche, ainsi son mode de fonctionnement collaboratif"
+
 ---
 
 ### Nos missions

@@ -1,5 +1,7 @@
 ---
 title: "Partenaires institutionnels"
+description: "Le réseau SHINY::ESR est soutenu par les principaux organismes de recherche française : CNRS, CIRAD, INRAE et IRD, qui assurent financement, infrastructure et visibilité du projet"
+
 ---
 
 Le réseau est soutenu par les principaux organismes de recherche et d'enseignement supérieur. 

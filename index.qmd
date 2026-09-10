@@ -1,5 +1,7 @@
 ---
 title: "Fédérer les pratiques et valoriser l'ingénierie Shiny dans l'enseignement supérieur et la recherche"
+description: "Le réseau SHINY::ESR fédère les développeurs, DevOps et administrateurs qui créent des applications Shiny dans l'enseignement supérieur et la recherche, afin de valoriser la science ouverte"
+preview: 
 ---
 
 ## Shiny, moteur de la science ouverte
