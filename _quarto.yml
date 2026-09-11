@@ -12,7 +12,7 @@ website:
   site-path: '/'
 
   page-footer:
-    center: "Partenaires : [CIRAD](https://www.cirad.fr/) | [CNRS](https://www.cnrs.fr/) | [INRAE](https://www.inrae.fr/) | [IRD](https://www.ird.fr/)"
+    center: "[Partenaires](partenaires.html) : [CIRAD](https://www.cirad.fr/) | [CNRS](https://www.cnrs.fr/) | [INRAE](https://www.inrae.fr/) | [IRD](https://www.ird.fr/)"
     
   navbar:
     logo: images/logo_shiny-esr.png
