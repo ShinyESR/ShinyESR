@@ -19,3 +19,15 @@ Le réseau est soutenu par les principaux organismes de recherche et d'enseignem
 [![Institut de recherche pour le développement<br><br>](images/logo_ird.png){height=70px}](https://www.ird.fr/)
 :::
 
+
+## Financeurs
+
+::: {layout-ncol=2}
+[![Département MathNum INRAE<br><br>](images/logo_inrae_MathNum.png){height=70px}](https://www.inrae.fr/departements/mathnum)
+
+[![Département BAP INRAE<br><br>](images/logo_inrae.png){height=70px}](https://www.inrae.fr/departements/bap)
+
+[![Département SA INRAE<br><br>](images/logo_inrae.png){height=70px}](https://www.inrae.fr/departements/sa)
+
+[![Direction pour la Science Ouverte INRAE<br><br>](images/logo_inrae_dipso.png){height=70px}](https://science-ouverte.inrae.fr/fr/la-science-ouverte/la-direction-pour-la-science-ouverte)
+:::
