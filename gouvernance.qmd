@@ -17,7 +17,6 @@ Le réseau est animé par une équipe inter-établissements :
 - **Jean-François Rey** (INRAE, UR BioSP)
 - **Virginie Rossard** (INRAE, UR LBE)
 - **François Tilmant** (INRAE, UR HYCAR)
-- **Lise Vaudor** (CNRS, UMR Environnement Ville Société)
 - **Olivier Vu Thanh** (BRGM, éq. Hydrogéologie)
 
 
